@@ -1,6 +1,6 @@
 {
     "fatal_error": {
-        "message": "خطأ قاتل"
+        "message": "خطأ فادح"
     },
     "Please_consider_a_contribution": {
         "message": "تبرع لنا من فضلك"
@@ -152,7 +152,7 @@
         "message": "معالجة مع المتصفح"
     },
     "Enforce": {
-        "message": "فرض"
+        "message": "افرض"
     },
     "Strict": {
         "message": "صارم"
@@ -272,7 +272,7 @@
         "message": "تتبع"
     },
     "Verbose": {
-        "message": "مسهب"
+        "message": "مكثف"
     },
     "Debug": {
         "message": "تصحيح"
@@ -338,7 +338,7 @@
         "message": "استبدال"
     },
     "Jump_to_line": {
-        "message": "القفز إلى سطر"
+        "message": "الذهاب إلى سطر"
     },
     "Insert_constructor": {
         "message": "إدراج constructor"
@@ -365,7 +365,7 @@
         "message": "...انتظر من فضلك"
     },
     "Edit": {
-        "message": "تحرير"
+        "message": "تعديل"
     },
     "Sites": {
         "message": "المواقع"
@@ -492,7 +492,7 @@
         "message": "حجم الخط"
     },
     "Theme": {
-        "message": "المظاهر"
+        "message": "الشكل"
     },
     "Windows": {
         "message": "النوافذ"
